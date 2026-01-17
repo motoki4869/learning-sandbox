@@ -1,4 +1,8 @@
-void bankrupt(){
+#include <iostream>
+#include <random>
+using namespace std;
+
+int main() {
         int n = 10000000;  //試行回数
         random_device rd;
         mt19937 mt(rd());
