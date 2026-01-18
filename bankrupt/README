@@ -1,0 +1,5 @@
+1. 書き換えたらコンパイル（下記コマンド）
+    g++ bankrupt.C -o bankrupt
+
+2. 処理実行
+    ./bankrupt
